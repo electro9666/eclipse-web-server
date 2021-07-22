@@ -30,7 +30,7 @@ public class HelloWorldServlet implements Servlet {
 
 	@Override
 	public void init(ServletConfig config) throws ServletException {
-		System.out.println("init");
+		System.out.println("init1");
 		// TODO Auto-generated method stub
 		
 	}

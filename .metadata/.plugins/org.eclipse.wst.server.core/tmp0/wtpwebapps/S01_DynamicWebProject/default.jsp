@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	환영~
+	환영~1
 </body>
 </html>
